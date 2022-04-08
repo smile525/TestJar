@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/zhangping/.gradle/caches/transforms-3/cadf21eacd0260757bfcbb6421438691/transformed/appcompat-1.3.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/merged_res/release/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/zhangping/.gradle/caches/transforms-3/cadf21eacd0260757bfcbb6421438691/transformed/appcompat-1.3.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

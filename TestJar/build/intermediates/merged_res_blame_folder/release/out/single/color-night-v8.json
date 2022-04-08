@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/merged_res/release/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "/Users/zhangping/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/merged_res/release/color-night-v8/material_timepicker_clockface.xml",
+        "source": "/Users/zhangping/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/merged_res/release/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "/Users/zhangping/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/color-night-v8/material_timepicker_button_stroke.xml"
+    }
+]

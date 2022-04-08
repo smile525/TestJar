@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/merged_res/release/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "/Users/zhangping/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/merged_res/release/layout-land/material_timepicker.xml",
+        "source": "/Users/zhangping/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/merged_res/release/layout-land/material_clock_period_toggle_land.xml",
+        "source": "/Users/zhangping/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/layout-land/material_clock_period_toggle_land.xml"
+    }
+]

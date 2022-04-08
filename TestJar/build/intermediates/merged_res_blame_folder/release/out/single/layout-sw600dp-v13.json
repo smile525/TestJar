@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/merged_res/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/zhangping/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/zhangping/Desktop/tinet/project/ti_net2/TestJar/TestJar/build/intermediates/merged_res/release/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/Users/zhangping/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]
